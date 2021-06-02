@@ -13,4 +13,4 @@ spring:
 
   # Spring properties
   profiles:
-    active: master,qa,dev
+    active: dev,qa,master
